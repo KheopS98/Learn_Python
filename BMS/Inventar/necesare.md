@@ -1,6 +1,5 @@
 # Necesar de materiale 
 ## Control Acces
-->Real Time Clock (RTC)  https://www.optimusdigital.ro/ro/cautare?controller=search&orderby=position&orderway=desc&search_query=real+time+clock&submit_search= 
 
 ->Mini-Display V
 ->RFID Reader (Radio-Freq Identificator)
